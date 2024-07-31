@@ -15,13 +15,6 @@ Esta increíble aplicación fue creada con **React.js**. Es un contador de clics
 ## Creditos
 Este proyecto es parte del curso de [#freeCodeCamp](https://www.youtube.com/watch?v=6Jfk8ic3KVk). ¡Gracias a todos los colaboradores y a la maravillosa comunidad de freeCodeCamp por su apoyo y recursos! 🌟
 
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
 ## Deployment
 
 Sigue estos sencillos pasos para poner en marcha la aplicación en tu entorno local:
